@@ -1,0 +1,9 @@
+variable,location,complexity,epochs,MSE_avg,NSE_avg,of_train,of_test
+NDVI,east,moderate,150,0.006047806,0.890446641,0,0
+NDVI,west,high,100,0.002335868,0.973116603,0,0
+P,east,moderate,150,0.062105024,0.018356599,0,0
+P,west,high,100,0.006705577,0.905023006,0,0
+SM,east,moderate,100,0.014769838,0.695612692,0,0
+SM,west,moderate,150,0.009398839,0.633340732,0,0
+T,east,moderate,50,0.004283458,0.939854244,0,0
+T,west,moderate,100,0.002945592,0.959496676,0,0
